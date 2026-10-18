@@ -1,12 +1,12 @@
 # Aryan-Saini
 <h1 align="center">Hi 👋, I'm Aryan Saini</h1>
-<h3 align="center">💻Student | Tech Enthusiast | Passionate about Programming, Web Development & Emerging Tech</h3>
+<h3 align="center">Aspiring Python & AI/ML Developer | Exploring data structures, machine learning basics, and building practical projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansaini29&label=Profile%20views&color=0e75b6&style=flat" alt="aryansaini29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansaini29" alt="aryansaini29" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script , Python , React JS**
+- 🌱 I’m currently learning **Python ,NumPY ,Pandas ,Java Script ,React JS**
 
 - 📫 How to reach me **aryansaini2907@gmail.com**
 
